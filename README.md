@@ -12,6 +12,7 @@
   - 若本机已经安装 `docker`，可以本地 build
   - 若没有安装，可以使用 [play with docker](https://labs.play-with-docker.com/)，相当于一个有网络支持的虚拟环境，把自己的代码 clone 下来，再 build
   - 镜像名称为 `dockerhub 用户名/simplelayout`
+- 将镜像 push 到 dockerhub 上 （先 docker login）
 
 ## 参考
 
